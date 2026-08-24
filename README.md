@@ -27,9 +27,3 @@ I'm a Computer Programmer interested in web development and backend technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Ömer Faruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerrfarukkaydinn&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerrfarukkaydinn&layout=compact&theme=tokyonight)
