@@ -37,12 +37,12 @@ I'm always open to connecting and discussing software development and new opport
 
 ## 🚀 Featured Projects
 
-### 🚪 Door System Website
+### 🚪 [Door System Website](https://github.com/omerrfarukkaydinn/door-system-website)
 A responsive website project for an automatic door systems company.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript,Asp.Net Core MVC
 
-### 🌐 Simple Website
+### 🌐 [Simple Website](https://github.com/omerrfarukkaydinn/simple-website)
 A simple website project created to practice frontend development.
 
 **Technologies:** HTML, CSS
