@@ -4,6 +4,17 @@
 🌱 I'm currently improving my web development skills.  
 🚀 I'm interested in Backend and Web Development.
 
+
+## 👨‍💻 About Me
+
+I'm a Computer Programmer interested in web development and backend technologies.
+
+- 🔭 I'm currently working on web development projects.
+- 🌱 I'm learning and improving my ASP.NET Core MVC and JavaScript skills.
+- 💻 I enjoy building websites and learning new technologies.
+- 🎯 My goal is to become a professional Full Stack Developer.
+
+
 ## 🛠️ Technologies & Skills
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -17,12 +28,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-## 👨‍💻 About Me
-
-I'm a Computer Programmer interested in web development and backend technologies.
-
-- 🔭 I'm currently working on web development projects.
-- 🌱 I'm learning and improving my ASP.NET Core MVC and JavaScript skills.
-- 💻 I enjoy building websites and learning new technologies.
-- 🎯 My goal is to become a professional Full Stack Developer.
