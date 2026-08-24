@@ -35,4 +35,18 @@ I'm always open to connecting and discussing software development and new opport
 - 💼 LinkedIn: [Ömer Faruk Aydın](https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n41/)
 
 
+## 🚀 Featured Projects
+
+### 🚪 Door System Website
+A responsive website project for an automatic door systems company.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 🌐 Simple Website
+A simple website project created to practice frontend development.
+
+**Technologies:** HTML, CSS
+
+
+
 
