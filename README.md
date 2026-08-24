@@ -42,10 +42,6 @@ A responsive website project for an automatic door systems company.
 
 **Technologies:** HTML, CSS, JavaScript,Asp.Net Core MVC
 
-### 🌐 [Simple Website](https://github.com/omerrfarukkaydinn/simple-website)
-A simple website project created to practice frontend development.
-
-**Technologies:** HTML, CSS
 
 
 
