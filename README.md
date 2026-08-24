@@ -27,20 +27,21 @@ I'm a Computer Programmer interested in web development and backend technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 📫 Contact Me
-
-I'm always open to connecting and discussing software development and new opportunities.
-
-- 💼 LinkedIn: [Ömer Faruk Aydın](https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n41/)
-
-
 ## 🚀 Featured Projects
 
 ### 🚪 [Door System Website](https://github.com/omerrfarukkaydinn/door-system-website)
 A responsive website project for an automatic door systems company.
 
 **Technologies:** HTML, CSS, JavaScript,Asp.Net Core MVC
+
+
+
+
+## 📫 Contact Me
+
+I'm always open to connecting and discussing software development and new opportunities.
+
+- 💼 LinkedIn: [Ömer Faruk Aydın](https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n41/)
 
 
 
